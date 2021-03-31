@@ -28,6 +28,8 @@
         <TextBox Name="NumberMod2" HorizontalAlignment="Left" Height="23" Margin="10,310,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button Content="Сalculate" HorizontalAlignment="Left" Margin="33,345,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
         <TextBox Name="ResultMod" HorizontalAlignment="Left" Height="42" Margin="10,370,0,0" TextWrapping="Wrap" Text="Inverse number" VerticalAlignment="Top" Width="120"/>
-        <TextBox Name="Numbers" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="40" Margin="10,160,0,0" TextWrapping="Wrap" Text="Prime numbers" VerticalAlignment="Top" Width="208"/>
+        <TextBox Name="Numbers" ScrollViewer.VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Height="78" Margin="54,161,0,0" TextWrapping="Wrap" Text="Prime numbers" VerticalAlignment="Top" Width="205"/>
+        <TextBox x:Name="nLn" HorizontalAlignment="Left" Height="23" Margin="209,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="50"/>
+        <Label HorizontalAlignment="Left" Margin="214,100,0,0" VerticalContentAlignment="Center" VerticalAlignment="Top" Height="26" Content="n/ln(n)"/>
     </Grid>
 </Window>

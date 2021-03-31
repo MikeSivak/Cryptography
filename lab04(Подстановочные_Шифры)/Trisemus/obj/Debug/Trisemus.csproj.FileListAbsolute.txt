@@ -1,0 +1,13 @@
+E:\3_course\2_Semester\Cryptography\Labs\lab04\Trisemus\bin\Debug\Trisemus.exe.config
+E:\3_course\2_Semester\Cryptography\Labs\lab04\Trisemus\bin\Debug\Trisemus.exe
+E:\3_course\2_Semester\Cryptography\Labs\lab04\Trisemus\bin\Debug\Trisemus.pdb
+E:\3_course\2_Semester\Cryptography\Labs\lab04\Trisemus\obj\Debug\Trisemus.exe
+E:\3_course\2_Semester\Cryptography\Labs\lab04\Trisemus\obj\Debug\Trisemus.pdb
+E:\3_course\2_Semester\Cryptography\Labs\lab04\Trisemus\obj\Debug\Trisemus.csprojAssemblyReference.cache
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\bin\Debug\Trisemus.exe.config
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\bin\Debug\Trisemus.exe
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\bin\Debug\Trisemus.pdb
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\obj\Debug\Trisemus.csprojAssemblyReference.cache
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\obj\Debug\Trisemus.csproj.CoreCompileInputs.cache
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\obj\Debug\Trisemus.exe
+E:\Study\3_course\2_Semester\Cryptography\Labs\Crypto\lab04(Подстановочные_Шифры)\Trisemus\obj\Debug\Trisemus.pdb

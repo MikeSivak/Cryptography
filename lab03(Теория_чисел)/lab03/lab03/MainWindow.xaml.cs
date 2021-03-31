@@ -73,21 +73,62 @@ namespace lab03
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Numbers.Text = "";
-            int count = 0;
+            /*int count = 0;*//**/
             int number1 = 0;
             int number2 = 0;
+            double count2 = 0;
             int.TryParse(Number1.Text, out number1);
             int.TryParse(Number2.Text, out number2);
-            for (int i = number1; i <= number2; i++)
+            /*for (int i = number1; i <= number2; i++)
             {
                 if (IsPrimeNumber(i))
                 {
                     count++;
                     Numbers.Text += i + ",";
                 }
+            }*/
+            /*Result.Text = count.ToString();*/
+
+            /*count2 = count * 0.98;
+            nLn.Text = count2.ToString();*/
+
+            int n, j = 0;
+            int count = 0;
+            n = number2;
+            int[] a = new int[n];
+            for (int i = number1; i < n; i++)
+            {
+                a[i] = i;
             }
+            a[1] = 0;
+            int m = 2;
+            while (m < n)
+            {
+                if (a[m] != 0)
+                    j = m * 2;
+                while (j < n)
+                {
+                    a[j] = 0;
+                    j = j + m;
+                }
+                m += 1;
+            }
+            foreach (int x in a)
+            {
+                if (x != 0)
+                {
+                    Numbers.AppendText(x + " ");
+                    count++;
+                }
+                    /*Console.Write(x + " ");*/
+            }
+            /*Console.ReadKey();*/
+
             Result.Text = count.ToString();
+            nLn.Text = ((number2 / Math.Log(number2, Math.E)) - (number1 / Math.Log(number1, Math.E))).ToString();
+
         }
+
         private void Button2_Click(object sender, RoutedEventArgs e)
         {
             int result = 0;

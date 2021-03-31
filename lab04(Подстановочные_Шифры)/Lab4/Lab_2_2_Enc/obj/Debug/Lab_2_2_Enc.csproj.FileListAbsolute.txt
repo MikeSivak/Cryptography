@@ -1,0 +1,81 @@
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csprojAssemblyReference.cache
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\MainWindow.g.cs
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\App.g.cs
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.cache
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.lref
+D:\Crypto\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe.config
+D:\Crypto\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe
+D:\Crypto\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.pdb
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\MainWindow.baml
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.g.resources
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.Properties.Resources.resources
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.GenerateResource.cache
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.CoreCompileInputs.cache
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.exe
+D:\Crypto\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.pdb
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe.config
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.pdb
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csprojAssemblyReference.cache
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\MainWindow.g.cs
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\App.g.cs
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.cache
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.lref
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\MainWindow.baml
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.g.resources
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.Properties.Resources.resources
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.GenerateResource.cache
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.CoreCompileInputs.cache
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.exe
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.pdb
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Histogram.g.cs
+D:\Crypto\Part 2\Lab_2\Lab_2_2_Enc\obj\Debug\Histogram.baml
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe.config
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.pdb
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csprojAssemblyReference.cache
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Histogram.g.cs
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\MainWindow.g.cs
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\App.g.cs
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.cache
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.lref
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Histogram.baml
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\MainWindow.baml
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.g.resources
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.Properties.Resources.resources
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.GenerateResource.cache
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.exe
+C:\Users\andrei.lastachkin\Downloads\Part_2\Lab_2\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.pdb
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe.config
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.pdb
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csprojAssemblyReference.cache
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Histogram.g.cs
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\MainWindow.g.cs
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\App.g.cs
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.cache
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.lref
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Histogram.baml
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\MainWindow.baml
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.g.resources
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.Properties.Resources.resources
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.GenerateResource.cache
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.exe
+D:\Универ\КМЗИ\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.pdb
+d:\Lab4\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe.config
+d:\Lab4\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.exe
+d:\Lab4\Lab_2_2_Enc\bin\Debug\Lab_2_2_Enc.pdb
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csprojAssemblyReference.cache
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Histogram.g.cs
+d:\Lab4\Lab_2_2_Enc\obj\Debug\MainWindow.g.cs
+d:\Lab4\Lab_2_2_Enc\obj\Debug\App.g.cs
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.cache
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc_MarkupCompile.lref
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Histogram.baml
+d:\Lab4\Lab_2_2_Enc\obj\Debug\MainWindow.baml
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.g.resources
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.Properties.Resources.resources
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.GenerateResource.cache
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.csproj.CoreCompileInputs.cache
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.exe
+d:\Lab4\Lab_2_2_Enc\obj\Debug\Lab_2_2_Enc.pdb
