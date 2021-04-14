@@ -6,7 +6,7 @@ import { Bar } from 'react-chartjs-2';
 
 
 const App = () => {
-    // variant 12: 1-2-2
+    // variant 13: 1-2-2
     //6-4-2
     const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('')
     
@@ -44,9 +44,9 @@ const App = () => {
         ['V', 'W']
     ])
 
-    const rotorLOffset = 1 + 1
-    const rotorMOffset = 2 + 1
-    const rotorROffset = 2 + 1
+    const rotorLOffset = 1
+    const rotorMOffset = 2
+    const rotorROffset = 2
 
     const [inputText, setInputText] = useState('')
     const [resultText, setResultText] = useState('')
