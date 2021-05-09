@@ -1,8 +1,8 @@
 const { generator, rc4encrypt, rc4decrypt } = require('./util')
 
-const a = 421
-const c = 1663
-const n = 7875
+const a = 430
+const c = 2531
+const n = 11979
 
 const count = 10
 const result = generator(a, c, n, count)
@@ -11,7 +11,7 @@ console.log('Generated: ', result)
 
 const text = 'Mike Sivak hello world!'
 
-const key = Buffer.from([122, 125, 48, 84, 201])
+const key = Buffer.from([61, 60, 23, 22, 21, 20])
 
 
 const encryptedText = rc4encrypt(text, key)
